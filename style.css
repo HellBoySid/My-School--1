@@ -1,0 +1,39 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(135deg, rgba(34,193,195,1) 0%, rgba(255,255,255,1) 63%);
+}
+
+#marquee
+{
+    width: 100%;
+}
+
+#campus
+{
+    margin-top: 0px;
+}
+
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+.contact
+{
+    display: flex;
+    justify-content: center;
+}
+
+.map
+{
+    margin-left: 200px;
+    margin-right: 10%;
+}
+
+#myNavbar li
+{
+    font-family: 'Lalezar', cursive;
+}
